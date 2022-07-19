@@ -70,7 +70,7 @@ body{
     align-items: flex-start;
     justify-content: center; 
     color: var(--offWhite);
-    background: var(--offPurple) url("/Assets/Images/city.jpg") no-repeat;
+    background: var(--offPurple) url("../Assets/Images/city.jpg") no-repeat;
     background-blend-mode: luminosity;
     background-size: 100%;
 }
