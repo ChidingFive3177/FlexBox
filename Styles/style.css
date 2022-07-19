@@ -69,7 +69,6 @@ body{
     flex: 1;
     flex-direction: column;
     width: 100vw;
-    height: 90vh;
     align-items: flex-start;
     justify-content: center; 
     color: var(--offWhite);
