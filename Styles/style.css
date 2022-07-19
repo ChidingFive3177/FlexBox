@@ -24,6 +24,8 @@ body{
 .main-container{
     display: flex;
     flex-direction: column;
+    height: 100vh;
+    min-height: 700px;
 }
 
 .header-container{
@@ -64,6 +66,7 @@ body{
 
 .section-container{
     display: flex;
+    flex: 1;
     flex-direction: column;
     width: 100vw;
     height: 90vh;
